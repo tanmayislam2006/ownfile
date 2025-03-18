@@ -1,10 +1,185 @@
-
 {
-    "userinfo":[
-        {
-            "id":1,
-            "user":"01996283620",
-            "password":"abcd"
-        }
+    "footballers": [
+      {
+        "name": "Lionel Messi",
+        "age": 36,
+        "nationality": "Argentina",
+        "player_status": "Active",
+        "club": "Inter Miami",
+        "position": "Forward",
+        "picture": "https://example.com/messi.jpg"
+      },
+      {
+        "name": "Cristiano Ronaldo",
+        "age": 39,
+        "nationality": "Portugal",
+        "player_status": "Active",
+        "club": "Al-Nassr",
+        "position": "Forward",
+        "picture": "https://example.com/ronaldo.jpg"
+      },
+      {
+        "name": "Kylian Mbappé",
+        "age": 25,
+        "nationality": "France",
+        "player_status": "Active",
+        "club": "Paris Saint-Germain",
+        "position": "Forward",
+        "picture": "https://example.com/mbappe.jpg"
+      },
+      {
+        "name": "Erling Haaland",
+        "age": 23,
+        "nationality": "Norway",
+        "player_status": "Active",
+        "club": "Manchester City",
+        "position": "Forward",
+        "picture": "https://example.com/haaland.jpg"
+      },
+      {
+        "name": "Kevin De Bruyne",
+        "age": 32,
+        "nationality": "Belgium",
+        "player_status": "Active",
+        "club": "Manchester City",
+        "position": "Midfielder",
+        "picture": "https://example.com/debruyne.jpg"
+      },
+      {
+        "name": "Mohamed Salah",
+        "age": 31,
+        "nationality": "Egypt",
+        "player_status": "Active",
+        "club": "Liverpool",
+        "position": "Forward",
+        "picture": "https://example.com/salah.jpg"
+      },
+      {
+        "name": "Robert Lewandowski",
+        "age": 35,
+        "nationality": "Poland",
+        "player_status": "Active",
+        "club": "Barcelona",
+        "position": "Forward",
+        "picture": "https://example.com/lewandowski.jpg"
+      },
+      {
+        "name": "Neymar Jr",
+        "age": 32,
+        "nationality": "Brazil",
+        "player_status": "Active",
+        "club": "Al-Hilal",
+        "position": "Forward",
+        "picture": "https://example.com/neymar.jpg"
+      },
+      {
+        "name": "Vinícius Jr",
+        "age": 23,
+        "nationality": "Brazil",
+        "player_status": "Active",
+        "club": "Real Madrid",
+        "position": "Forward",
+        "picture": "https://example.com/vinicius.jpg"
+      },
+      {
+        "name": "Jude Bellingham",
+        "age": 20,
+        "nationality": "England",
+        "player_status": "Active",
+        "club": "Real Madrid",
+        "position": "Midfielder",
+        "picture": "https://example.com/bellingham.jpg"
+      },
+      {
+        "name": "Harry Kane",
+        "age": 30,
+        "nationality": "England",
+        "player_status": "Active",
+        "club": "Bayern Munich",
+        "position": "Forward",
+        "picture": "https://example.com/kane.jpg"
+      },
+      {
+        "name": "Luka Modrić",
+        "age": 38,
+        "nationality": "Croatia",
+        "player_status": "Active",
+        "club": "Real Madrid",
+        "position": "Midfielder",
+        "picture": "https://example.com/modric.jpg"
+      },
+      {
+        "name": "Bruno Fernandes",
+        "age": 29,
+        "nationality": "Portugal",
+        "player_status": "Active",
+        "club": "Manchester United",
+        "position": "Midfielder",
+        "picture": "https://example.com/fernandes.jpg"
+      },
+      {
+        "name": "Marcus Rashford",
+        "age": 26,
+        "nationality": "England",
+        "player_status": "Active",
+        "club": "Manchester United",
+        "position": "Forward",
+        "picture": "https://example.com/rashford.jpg"
+      },
+      {
+        "name": "Antoine Griezmann",
+        "age": 33,
+        "nationality": "France",
+        "player_status": "Active",
+        "club": "Atletico Madrid",
+        "position": "Forward",
+        "picture": "https://example.com/griezmann.jpg"
+      },
+      {
+        "name": "Pedri",
+        "age": 21,
+        "nationality": "Spain",
+        "player_status": "Active",
+        "club": "Barcelona",
+        "position": "Midfielder",
+        "picture": "https://example.com/pedri.jpg"
+      },
+      {
+        "name": "Joshua Kimmich",
+        "age": 29,
+        "nationality": "Germany",
+        "player_status": "Active",
+        "club": "Bayern Munich",
+        "position": "Midfielder",
+        "picture": "https://example.com/kimmich.jpg"
+      },
+      {
+        "name": "Alisson Becker",
+        "age": 31,
+        "nationality": "Brazil",
+        "player_status": "Active",
+        "club": "Liverpool",
+        "position": "Goalkeeper",
+        "picture": "https://example.com/alisson.jpg"
+      },
+      {
+        "name": "Thibaut Courtois",
+        "age": 32,
+        "nationality": "Belgium",
+        "player_status": "Active",
+        "club": "Real Madrid",
+        "position": "Goalkeeper",
+        "picture": "https://example.com/courtois.jpg"
+      },
+      {
+        "name": "Virgil van Dijk",
+        "age": 32,
+        "nationality": "Netherlands",
+        "player_status": "Active",
+        "club": "Liverpool",
+        "position": "Defender",
+        "picture": "https://example.com/vandijk.jpg"
+      }
     ]
-}
+  }
+  
